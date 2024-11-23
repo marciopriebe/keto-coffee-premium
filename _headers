@@ -1,0 +1,5 @@
+/sitemap.xml
+  Content-Type: application/xml; charset=UTF-8
+
+/*  # Para todas as outras URLs
+  X-Robots-Tag: noindex
