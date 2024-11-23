@@ -1,5 +1,2 @@
 User-agent: *
-Disallow: /admin/
-Disallow: /login/
-Allow: /images/
-Sitemap: https://keto-coffee-premium.pages.dev/sitemap.xml
+Disallow:
